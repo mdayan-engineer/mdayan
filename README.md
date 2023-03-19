@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Ayan</h1>
+<h1 align="center">I'm Md Ayan and i am a Software Developer Engineer pursuing my Undergrad in CSE</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdayan336&label=Profile%20views&color=0e75b6&style=flat" alt="mdayan336" /> </p>
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/md_ayan336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_ayan336" height="30" width="40" /></a>
+<a href="https://instagram.com/mdayan.engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_ayan336" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
