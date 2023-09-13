@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **data structures and algorithms in java, HTML, CSS, & Bootstrap**
 
-- 📫 How to reach me **mdayan-engineer@gmail.com**
+- 📫 How to reach me **mdayan336@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
